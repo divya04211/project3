@@ -1,0 +1,8 @@
+time 7:40 am in class @ 16th june 2021
+security
+revenue- dynamically caluclated member
+read only column
+senario-locked
+
+SIMPLE FORM CONSISTS OF ONLY 1 FORM
+COMPSITE FORM CONSISTS OF MORE THAN 1 FORM
